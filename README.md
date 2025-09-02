@@ -1,4 +1,4 @@
-![logo](C:\Users\dell\Pictures\S H A S H V A T P A Y G H A N.png)
+![logo](https://github.com/spayghan/spayghan/blob/main/S%20H%20A%20S%20H%20V%20A%20T%20P%20A%20Y%20G%20H%20A%20N.png)
 <h1 align="center">Hi 👋, I'm Shashvat Payghan</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
