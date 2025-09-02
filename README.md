@@ -1,3 +1,4 @@
+![logo](C:\Users\dell\Pictures\S H A S H V A T P A Y G H A N.png)
 <h1 align="center">Hi 👋, I'm Shashvat Payghan</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
